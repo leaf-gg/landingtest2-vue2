@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="33" viewBox="0 0 44 33">
+  <g id="cart" transform="translate(-1791 -41)">
+    <image id="carrinho" width="31" height="27" transform="translate(1791 47)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAbCAYAAACEP1QvAAAABHNCSVQICAgIfAhkiAAAAgRJREFUSEu9lj1IHEEUx+/8KkTSiRjFgDYxpBEEQaIGopCoiAoSEMVCRcEUYsR0uUhKv02joCLYWCooWpgiCTZCJEEtPAsR/AgHCoEYMSD4ezAn47K7dxt2buHPzNt98/+9Gfb2XjAUCh0FAoE8FL0iTKrRd+2ekWkQ+CXO6Rb3L8TPjRA1U4HnEmepe02M79S8nPGbyQIErvs/IdhTNzYYqxIJF9YxylHQZ4ybpgqw7lw486hNAdcZXyUS3gJsQQMOMz8wUEDYbufZgE5Q0ABQtzyzg0vCDnpqGL7oBB8D3GsY/toJXgN4xSD8Gu9MJ3gGDy9QqqECVvGtdYIL8ysqMwTvwHfWDf6ehEED8Bs8H6KIG7yUBBNfNznRCtmUGzyF5+fogc+778NPfk2ucHm+jOp8hufjdxgP/A1Jn3yE/8CrKOrnduySU4DCKMmnAgbwGYoXLnnyx/LWB/g+HsXojxe4/ME0o0b06D+K+M0aecPHkczvrljHrucWEki7tYX+xlGEfB1LVO62XX68cHnpepCcwi/0Ev10KUA6IWnDHqucNcZ69M/rzl8oI31drO52huR2S3HdxNNe4V0smLIYnRJH+zy7A5DipPvVrxGCfq9wObpdlKwtnLPZme4rLfEHC7yS+LNXuOQ3oFG12yXGTnTvzbWA0ognUCu6Qh/RpPWIbgE3RnN7Y29C7QAAAABJRU5ErkJggg=="/>
+    <g id="qtd">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="10" cy="10" r="10" transform="translate(1815 41)" fill="#ffa200"/>
+      <text id="_99" data-name="99" transform="translate(1825.039 54.852)" fill="#fff" font-size="10" font-family="Montserrat-Regular, Montserrat"><tspan x="-6.09" y="0">99</tspan></text>
+    </g>
+  </g>
+</svg>
